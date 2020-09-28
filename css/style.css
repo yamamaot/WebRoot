@@ -1,0 +1,31 @@
+body {
+    background: #fff;
+    font-family: "Arial", sans-serif;
+    font-size: 16px;
+    margin: 0 auto;
+    background-image:url(../img/background.gif);
+}
+h1 {
+    text-align: center;
+}
+
+#centerdiv {
+    margin:50px auto;
+    background-color:lightcyan;
+    width:550px;
+    height:auto;
+    padding:30px 60px;
+    border:1px solid gray;
+    box-shadow:3px 3px 13px rgba(0,0,0,.5)
+}
+
+#profilepic{
+    float:left;
+    margin:20px;
+}
+
+#info{
+    font-family: "Arial", sans-serif;
+    font-size: 20px;
+    margin: 10 auto;
+}
